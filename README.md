@@ -21,7 +21,7 @@ CFR은 Conversation(대화), Feedback(피드백), Recognition(인정)의 약자�
 리포지토리 명: cfr-{팀명}-{팀원명}
 ```
 
-각 CFR 관련 문서는 리포지토리의 `Discussions`를 활용합니다. 원하는 주기별로 구분하여 CFR을 나눌 수도 있습니다. 기본적으로 "주간 CFR"이 추가되어 있습니다.
+각 CFR 관련 문서는 리포지토리의 `Discussions`를 활용합니다. 기본적으로 "CFR-Weekly"가 추가되어 있습니다. 카테고리를 추가하여 원하는 주기별로 구분하여 CFR을 관리할 수 있습니다
 
 ### Meeting
 
